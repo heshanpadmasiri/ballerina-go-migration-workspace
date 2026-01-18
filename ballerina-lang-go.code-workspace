@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "ballerina-lang-go"
+		},
+		{
+			"path": "ballerina-lang"
+		},
+		{
+			"path": "javaGo"
+		}
+	],
+	"settings": {}
+}
